@@ -1,4 +1,3 @@
-import aboutimg from "../assets/aboutus.jpg"
 import Header from "../components/Header"
 function About() {
     return (
